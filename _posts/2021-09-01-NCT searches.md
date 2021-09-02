@@ -8,6 +8,8 @@ background: '/img/posts/nct_searches/nct_group.png'
 Comparing top 10 nct google related searches before and after Lucas scandal. 
 
 
+### Related Google Searches
+
 Top 10 rising google searches related to "nct" on August 2021: 
 
     1         lucas nct scandal
@@ -54,6 +56,8 @@ Top 10 rising google searches related to "nct" on June 2021:
     
 
 None of the related google searches in june and july (before Lucas scandal) have negative connotions. 
+
+### Related Google Searches
 
 How about top rising topics? 
 
